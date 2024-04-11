@@ -10,6 +10,10 @@ header{
     background-color: #DB3129;
 }
 
+a{
+    font-size: 20px;
+}
+
 main{
     background-color: #69BB80;
 }
@@ -17,14 +21,17 @@ main{
 h1{
     font-family: "Bebas Neue", sans-serif;
     line-height: 200%;
+    font-size: 60px;
 }
 
 h2{
     font-family: "Bebas Neue", sans-serif;
+    font-size: 50px;
 }
 
 p{
     font-family: "Roboto", sans-serif;
+    font-size: 40px;
 }
 
 footer{
@@ -34,7 +41,7 @@ footer{
 
 .item{
     background-color: #62A375;
-    height: 60vh;
+    height: 30vh;
     width: 100vw;
 }
 

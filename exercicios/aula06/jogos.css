@@ -6,33 +6,81 @@
     margin: 0%;
 }
 
-.mine{
-    background-image: url("/img/terraDebloco.png");
-    line-height: 100%;
+body{
+    background-color: #4A9D56;
 }
 
-.terraria{
-    background-image: url("/img/bcTerraria.png");
-    line-height: 100%;
+header{
+    background-color: #BE3335;
+    height: 10vh;
 }
 
-.oce{
-    background-image: url("/img/tala.png");
+a{
+    font-size: 20px;
 }
 
-.h2oce{
-    line-height: 400%;
+h1{
+    background-color: #BE3335;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 60px;
 }
 
-.espa{  
-    height: 60vh;
-    width: 100vw;
+p{
+    background-color: #32713C;
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
 }
 
 h2{
     font-family: "Bebas Neue", sans-serif;
+    font-size: 50px;
 }
 
-p{
-    font-family: "Roboto", sans-serif;
+img{
+    float: right;
+    overflow: auto;
+    display: inline-block;
+
+    height: 45vh;
+    width: 30vw;
+}
+
+
+.mine{
+    line-height: 100%;
+    height: 50vh;
+    width: 60vw;
+
+    display: inline-block;
+}
+
+.terraria{
+    line-height: 100%;
+    height: 50vh;
+    width: 60vw;
+
+    display: inline-block;
+}
+
+
+
+.oce{
+    line-height: 100%;
+    height: 50vh;
+    width: 60vw;
+
+    display: inline-block;
+}
+
+.happy{
+    line-height: 100%;
+    height: 50vh;
+    width: 60vw;
+    display: inline-block;
+}
+
+.espa{  
+    background-color: #32713C;
+    height: 60vh;
+    width: 100vw;       
 }
