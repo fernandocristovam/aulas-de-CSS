@@ -1,0 +1,37 @@
+*{
+    font-size: 25px;
+}
+
+p{
+    font-size: 2rem;
+}
+
+.dudu{
+    font-size: 1.5rem;
+}
+
+.dudu2{
+   font-size: 2rem;
+}
+
+/* em = mutiplicado pelo tamanho do da fonte elemento anterior a ele */
+/* rem = mutiplicado pelo tamanho da fonte padrao do root */
+
+.box1{
+    background-color: blueviolet;
+    height: 100vh;
+}
+
+.box2{
+    background-color: aqua;
+    height: 100vh;
+}
+
+.box3{
+    background-color:chartreuse;
+    height: 40vh;
+    width: 30vw;
+}
+
+/* 50vh = medida que representa 50% da tela do munitor na vertical, deve ser usado dentro de um "heidht: ;" */
+/* 50vw = medida que representa 50% da tela do munitor na horizontal, deve ser usado dentro de um "width: ;" */

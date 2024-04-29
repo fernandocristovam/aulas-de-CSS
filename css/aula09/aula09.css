@@ -1,0 +1,44 @@
+:root{
+    --back-cor: #262526;
+    --box-cor: #0F0140;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+body{
+    background-color: var(--back-cor);
+}
+
+h1{
+    text-align: center;
+    font-size: 6rem;
+    background-color: #EAF205;
+}
+
+footer{
+    background-color: #EAF205;
+}
+
+a{
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: solid underline red;
+}
+
+a:link{
+    background-color: aquamarine;
+}
+
+a:active{
+    background-color: chocolate;
+}
+
+a:visited{
+    background-color: blueviolet;
+}

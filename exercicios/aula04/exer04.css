@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(96, 24, 163);
+}
+
+header{
+    color: white;
+}
+
+article p{
+    color:black;
+    background-color:burlywood;
+}
+
+h2{
+    color: white;
+}
+
+footer P{
+    color:white;
+}

@@ -1,0 +1,29 @@
+*{
+    background-color: darkgoldenrod;
+}
+
+.pacoca{
+    color: yellow;
+}
+
+h2.pacoca{
+    color: yellowgreen;
+}
+
+#danone{
+    background-color: aquamarine;
+    font-size: 35px;
+}
+
+nav a{
+    background-color: blueviolet;
+}
+
+article p{
+    font-weight: bolder;
+}
+
+h1, h2{
+    font-size: 60px;
+    color: darkslategray;
+}

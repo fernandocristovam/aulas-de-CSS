@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@100..900&family=Noto+Sans+Buhid&family=Tac+One&family=Yarndings+12&family=Yarndings+12+Charted&display=swap');
+
+  body{
+    color: #014040;
+    background-color: #014040;
+  }
+
+  h1{
+    color: #731702;
+    font-family: "Yarndings 12 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+  }
+
+  p{
+    color: #731702;
+    font-family: "Yarndings 12 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+  }

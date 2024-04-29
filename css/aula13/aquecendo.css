@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+}
+
+a{
+    margin-top: 10%;
+}
+
+.con{
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: repeat(4,auto);  
+    grid-template-rows: repeat(4,auto);
+    grid-template-areas: 
+    "a2 a1 a1 a1"
+    "a2 a1 a1 a1"
+    "a2 a3 a3 a3"
+    "a4 a4 a4 a4";
+
+    gap: 15px;
+}
+
+.box1{
+    grid-area: a1;
+    background-color: #0442BF;
+    font-size: 1000%;
+}
+
+.box2{
+    grid-area: a2;
+    background-color: #F205B3;
+    display: flex;
+    flex-direction: column;
+    font-size: 600%;
+}
+
+.box3{
+    grid-area: a3;
+    background-color: #BF046B;
+    font-size: 700%;
+}
+
+.box4{
+    grid-area: a4;
+    background-color: #0DF205;
+    display: flex;
+    font-size: 800%;
+}

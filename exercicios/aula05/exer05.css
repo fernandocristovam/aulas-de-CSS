@@ -1,0 +1,18 @@
+h1{
+    margin: 20px;
+    margin-bottom: 0px;
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+    margin: 0px 20px;
+}
+
+div{
+    background-color: rgb(90, 87, 87);
+    border-bottom: 5px solid red;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+    border-top: 0.1px solid red;
+}

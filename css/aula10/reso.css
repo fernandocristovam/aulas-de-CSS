@@ -1,0 +1,27 @@
+/* medio */
+body{
+        background-color: yellow;
+        font-size: 400%;
+    }
+
+/* grande */
+@media screen and (min-width:1000px){
+    body{
+        background-color: green;
+        font-size: 800%;
+    }
+}
+
+/* pequeno */
+@media screen and (max-width: 500px) {
+    body{
+        background-color: red;
+        font-size: 30%;
+    }
+}
+
+
+    
+
+
+

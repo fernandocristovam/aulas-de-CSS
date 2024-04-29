@@ -1,0 +1,12 @@
+p::after{
+    content: "--ain dudu";
+}
+
+p::before{
+    content: "cabeça de cebola--";
+}
+
+p::first-letter{
+   font-size: 3rem;
+   color: blueviolet;
+}

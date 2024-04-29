@@ -1,0 +1,33 @@
+.yarndings-12 charted-regular {
+    font-family: "Yarndings 12 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+body{
+    background-color: #9FB6BF;
+}
+
+h1{
+    color: #425059;
+    font-family: "Yarndings 12 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    color: #425059; 
+    font-family: "Yarndings 12 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+p{
+    color: #010D00;   
+    font-family: "Yarndings 12 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    
+}

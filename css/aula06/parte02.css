@@ -1,0 +1,21 @@
+*{
+    margin: 10px;
+}
+
+.box1{
+    box-sizing: border-box;
+    height: 40vh;
+    width: 40vw;
+    background-color: rgb(110, 110, 110);
+    border: 5px solid red;
+}
+
+.box2{
+    box-sizing: border-box;
+    height: 40vh;
+    width: 40vw;
+    background-color: rgb(110, 110, 110);
+    border: 5px solid green;
+}
+
+/* box-sizing: border-box; = qualquer alteracao feita na mardin ou na border de um elemento nao sera somado nos valores definidos e sera distribuido mantendo o valor padrao */
